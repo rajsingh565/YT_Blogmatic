@@ -19,33 +19,33 @@ Utilizing OpenAI for content generation, AssemblyAI for transcription, and Postg
 
 ## Quick Start
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/rajsingh565/AI_Blog_Generator.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd AI_Blog_Generator
-   ```
-3. Create and activate a virtual environment:
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+   1. Clone the repository:
+      ```
+      git clone https://github.com/rajsingh565/AI_Blog_Generator.git
+      ```
+   2. Navigate to the project directory:
+      ```
+      cd AI_Blog_Generator
+      ```
+   3. Create and activate a virtual environment:
+      ```
+      python -m venv venv
+      source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+      ```
 
-4. Install the required dependencies:
-```
-  pip install -r requirements.txt
-```
+   4. Install the required dependencies:
+      ```
+     pip install -r requirements.txt
+      ```
+   
+   5. Apply database migrations:
+      ```
+      python manage.py migrate
+      ```
 
-5. Apply database migrations:
-```
-   python manage.py migrate
-```
-
-6. Run the development server:
-```
-   python manage.py runserver
-```
+   6. Run the development server:
+     ```
+     python manage.py runserver
+     ```
    
 
