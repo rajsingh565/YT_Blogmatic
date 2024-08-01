@@ -35,7 +35,7 @@ Utilizing OpenAI for content generation, AssemblyAI for transcription, and Postg
 
    4. Install the required dependencies:
       ```
-     pip install -r requirements.txt
+      pip install -r requirements.txt
       ```
    
    5. Apply database migrations:
