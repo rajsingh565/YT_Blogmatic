@@ -44,8 +44,8 @@ Utilizing OpenAI for content generation, AssemblyAI for transcription, and Postg
       ```
 
    6. Run the development server:
-     ```
-     python manage.py runserver
-     ```
+      ```
+      python manage.py runserver
+      ```
    
 
