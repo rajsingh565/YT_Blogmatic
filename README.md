@@ -49,3 +49,9 @@ Utilizing OpenAI for content generation, AssemblyAI for transcription, and Postg
       ```
    
 
+## 🤝 Contributing
+  Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+## ⭐ Show Your Support
+
+If you like this repository, please don't forget to give it a ⭐.
