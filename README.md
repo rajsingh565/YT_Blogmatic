@@ -1,4 +1,4 @@
-# AI Blog Generator
+# YT Blogmatic
 
 ## Description
 AI Blog Generator is a Django-based web application that generates blog content from YouTube video URLs. 
