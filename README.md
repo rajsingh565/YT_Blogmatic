@@ -5,7 +5,7 @@ AI Blog Generator is a Django-based web application that generates blog content 
 Utilizing OpenAI for content generation, AssemblyAI for transcription, and PostgreSQL for database management, the application provides a seamless way to convert video content into informative blog posts.
 
 ## Features
-- Input a YouTube URL to generate a summary.
+- Input a YouTube URL to generate a summary.    
 - Utilizes OpenAI for content generation.
 - Uses AssemblyAI for video transcription.
 - Stores data in a PostgreSQL database.
